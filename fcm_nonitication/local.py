@@ -1,5 +1,5 @@
 
-cred = 'C:\\Users\\Dell\\Desktop\\django\\django_firebase_notification\\fcm_nonitication\\serviceAccountKey.json'
+cred = 'C:\\Users\\Dell\\Desktop\\django\\django_firebase_notification\\fcm_nonitication\\serviceAccountKey1.json'
 
 FCM_DJANGO_SETTINGS = {
     "FCM_SERVER_KEY": "AAAAE6zggNo:APA91bGNhx9yU5FqdF_1CfBBctSXmcyBVHmbxnmnKXtB3XZm2LbMIisufr9Xtrh8IZr4dzZzKUOZVnuh0ePMaQYCbC8xG_W0-53ZSJqNpksNr0BGpHbcfK0ViWqs-LzgHObAf3gu5l9k",
